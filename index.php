@@ -70,7 +70,7 @@
         <!-- <a href="#" class="button">Rejoignez nous</a> -->
     </div>
 <div class="accueil-img">
-    <img src="img/Imageaccueil.png">
+    <img src="images/Imageaccueil.png">
 </div>
 </section>
 <!-------------------------------------------------------------------Fin Img Accueil ---------------------------------------------------------------------------------------------->
@@ -83,7 +83,7 @@
     <div class="products-container">
         <div class="box">
             <div class="box-img">
-                <img src="img/MANGUE.jpg">
+                <img src="images/MANGUE.jpg">
             </div>
             <div class="stars">
                 <i class='bx bxs-star'></i>
@@ -97,7 +97,7 @@
         </div>
         <div class="box">
             <div class="box-img">
-                <img src="img/FRAISE.jpg">
+                <img src="images/FRAISE.jpg">
             </div>
             <div class="stars">
                 <i class='bx bxs-star'></i>
@@ -111,7 +111,7 @@
         </div>
         <div class="box">
             <div class="box-img">
-                <img src="img/Honeydew-Melon-Milk-Tea-Boba-2.jpg">
+                <img src="images/Honeydew-Melon-Milk-Tea-Boba-2.jpg">
             </div>
             <div class="stars">
                 <i class='bx bxs-star'></i>
@@ -125,7 +125,7 @@
         </div>
         <div class="box">
             <div class="box-img">
-                <img src="img/Bobun-au-boeuf.jpg">
+                <img src="images/3.jpg">
             </div>
             <div class="stars">
                 <i class='bx bxs-star'></i>
@@ -139,7 +139,7 @@
         </div>
         <div class="box">
             <div class="box-img">
-                <img src="img/i115877-bo-bun-poulet.jpeg">
+                <img src="images/5.jpeg">
             </div>
             <div class="stars">
                 <i class='bx bxs-star'></i>
@@ -153,7 +153,7 @@
         </div>
         <div class="box">
             <div class="box-img">
-                <img src="img/Bo-bun-aux-crevettes.jpg">
+                <img src="images/Bo-bun-aux-crevettes.jpg">
             </div>
             <div class="stars">
                 <i class='bx bxs-star'></i>
@@ -176,7 +176,7 @@
     </div>
     <div class="container">
         <div class="livraison-img">
-            <img src="img/livraison.png">
+            <img src="images/livraison.png">
         </div>
         <div class="livraison-text">
             <h2>Votre Bubbletea et Bobun disponible en livraison</h2>
@@ -184,7 +184,7 @@
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse repellat quos id quisquam voluptates numquam fugiat, vel aspernatur adipisci placeat eos! Ipsum autem magni deleniti eaque placeat neque facere veritatis?</p>
             <a href="#"  class="btn">Commandez maintenant</a>
         </div>
-        <img class="singe"  src="img/SINGE.png">
+        <img class="singe"  src="images/SINGE.png">
     </div>
     
 </section>
@@ -195,7 +195,7 @@
 </div>
 <section class="about" id="about">
 <div class="about-img">
-        <img src="img/ABOUTBOBUNTEAREMOVE.png">
+        <img src="images/ABOUTBOBUNTEAREMOVE.png">
     </div>
     <div class="about-text">
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos nulla, quis fugiat dignissimos obcaecati consectetur, laboriosam saepe iusto nam consequatur dolorum beatae? Ad repellat dolorem laborum eligendi esse? Quae, doloribus?</p>

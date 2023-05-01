@@ -10,7 +10,7 @@
 <body>
 <!--------------------------------------------------------------  Nav --------------------------------------------------------------------------------------------------->
 <header>
-      <a href="index.php"><img class="logo" src="img/logo.jpg" /></a>
+      <a href="index.php"><img class="logo" src="images/logo.jpg" /></a>
       <div class="bx bx-menu" id="menu-icon"></div>
       <nav>
         <ul class="navbar">
